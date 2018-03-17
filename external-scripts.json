@@ -2,5 +2,7 @@
   "hubot-help",
   "hubot-google-images",
   "hubot-maps",
-  "hubot-redis-brain"
+  "hubot-redis-brain",
+
+  "hubot-table-flip"
 ]
