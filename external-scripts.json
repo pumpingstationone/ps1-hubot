@@ -4,5 +4,6 @@
   "hubot-maps",
   "hubot-redis-brain",
 
-  "hubot-table-flip"
+  "hubot-table-flip",
+  "hubot-youtube"
 ]
