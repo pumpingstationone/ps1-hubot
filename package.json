@@ -8,13 +8,16 @@
   "author"      : "Andrew Vaughan <hello@andrewvaughan.io>",
 
   "dependencies": {
+    "coffee-script"          : "~1.12.7",
     "hubot"                  : "^2.19.0",
     "hubot-google-images"    : "^0.2.7",
     "hubot-help"             : "^0.2.2",
     "hubot-maps"             : "0.0.3",
     "hubot-redis-brain"      : "0.0.4",
     "hubot-scripts"          : "^2.17.2",
-    "hubot-slack"            : "^4.4.0"
+    "hubot-slack"            : "^4.4.0",
+
+    "hubot-table-flip"       : "~0.2.0"
   },
 
   "engines": {
